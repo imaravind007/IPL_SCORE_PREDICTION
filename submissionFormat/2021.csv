@@ -1,0 +1,25 @@
+start_date,venue,innings,ball,batting_team,bowling_team,striker,score,wicket
+2021-04-12,Wankhede Stadium,1,5.6,Punjab Kings,Rajasthan Royals,3,41,1
+2021-04-12,Wankhede Stadium,2,5.6,Rajasthan Royals,Punjab Kings,4,46,2
+2021-04-13,MA Chidambaram Stadium,1,5.6,Mumbai Indians,Kolkata Knight Riders,3,33,1
+2021-04-13,MA Chidambaram Stadium,2,5.6,Kolkata Knight Riders,Mumbai Indians,2,65,0
+2021-04-14,MA Chidambaram Stadium,1,5.6,Royal Challengers Bangalore,Sunrisers Hyderabad,3,50,1
+2021-04-14,MA Chidambaram Stadium,2,5.6,Sunrisers Hyderabad,Royal Challengers Bangalore,3,35,1
+2021-04-15,Wankhede Stadium,1,5.6,Delhi Capitals,Rajasthan Royals,5,46,3
+2021-04-15,Wankhede Stadium,2,5.6,Rajasthan Royals,Delhi Capitals,5,59,3
+2021-04-16,Wankhede Stadium,1,5.6,Punjab Kings,Chennai Super Kings,6,42,4
+2021-04-16,Wankhede Stadium,2,5.6,Chennai Super Kings,Punjab Kings,3,45,1
+2021-04-17,MA Chidambaram Stadium,1,5.6,Mumbai Indians,Sunrisers Hyderabad,2,47,0
+2021-04-17,MA Chidambaram Stadium,2,5.6,Sunrisers Hyderabad,Mumbai Indians,2,50,0
+2021-04-18,MA Chidambaram Stadium,1,5.6,Royal Challengers Bangalore,Kolkata Knight Riders,4,36,2
+2021-04-18,MA Chidambaram Stadium,2,5.6,Kolkata Knight Riders,Royal Challengers Bangalore,4,26,2
+2021-04-18,Wankhede Stadium,1,5.6,Punjab Kings,Delhi Capitals,2,26,0
+2021-04-18,Wankhede Stadium,2,5.6,Delhi Capitals,Punjab Kings,3,32,1
+2021-04-19,Wankhede Stadium,1,5.6,Chennai Super Kings,Rajasthan Royals,4,53,2
+2021-04-19,Wankhede Stadium,2,5.6,Rajasthan Royals,Chennai Super Kings,4,57,2
+2021-04-20,MA Chidambaram Stadium,1,5.6,Mumbai Indians,Delhi Capitals,3,45,1
+2021-04-20,MA Chidambaram Stadium,2,5.6,Delhi Capitals,Mumbai Indians,3,57,1
+2021-04-21,MA Chidambaram Stadium,1,5.6,Punjab Kings,Sunrisers Hyderabad,3,59,1
+2021-04-21,MA Chidambaram Stadium,2,5.6,Sunrisers Hyderabad,Punjab Kings,2,62,0
+2021-04-21,Wankhede Stadium,1,5.6,Chennai Super Kings,Kolkata Knight Riders,2,46,0
+2021-04-21,Wankhede Stadium,2,5.6,Kolkata Knight Riders,Chennai Super Kings,7,45,5
